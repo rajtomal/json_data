@@ -1,0 +1,118 @@
+{
+    "seller": [
+      {
+        "name": "aaa",
+        "email": "aaa@gmail.com",
+        "password": "aaa",
+        "id": 11
+      },
+      {
+        "name": "hi",
+        "email": "hi@gmail.com",
+        "password": "123",
+        "id": 12
+      }
+    ],
+    "products": [
+      {
+        "name": "Apple iPhone",
+        "model": "Apple iPhone 14 Pro Max",
+        "color": "Deep Purple",
+        "category": "Smartphone",
+        "price": "155000",
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-500x500.webp",
+        "description": "Model: iPhone 14 Pro Max Display: 6.7 Super Retina XDR Always-On display Processor: A16 Bionic chip, Storage: 256GB Camera: 48MP + 12MP + 12MP Rear, 12MP Front Features: Dynamic Island, Face ID, Dual eSIM",
+        "id": 1
+      },
+      {
+        "name": "OnePlus Nord",
+        "model": "OnePlus Nord CE 3 Lite",
+        "color": "Chromatic Gray",
+        "category": "Smartphone",
+        "price": "35000",
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-ce-3-lite-5g/oneplus-nord-ce-3-lite-5g-green-500x500.webp",
+        "description": "Model: Nord CE 3 Lite 5G\nDisplay: 6.72\" FHD+ 120 Hz Display\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 108+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 67W SUPERVOOC",
+        "id": 2
+      },
+      {
+        "name": "OnePlus Nord",
+        "model": "OnePlus Nord N20 SE",
+        "color": "Deep Purple",
+        "category": "Smartphone ",
+        "price": "20490",
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-n20-se/nord-n20-se-green-228x228.webp",
+        "description": "Model: Nord CE 3 Lite 5G\nDisplay: 6.72\" FHD+ 120 Hz Display\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 108+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 67W SUPERVOOC",
+        "id": 3
+      },
+      {
+        "name": "OnePlus",
+        "model": "OnePlus 10T 5G",
+        "color": "Deep Purple",
+        "category": "Smartphone ",
+        "price": "80000",
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/10t-5g/10t-green-500x500.webp",
+        "description": "Model: 10T\nDisplay: 6.7\" FHD+ 120Hz Fluid AMOLED Display\nProcessor: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)\nCamera: Triple 50+8+2 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 150W SUPERVOOC",
+        "id": 4
+      },
+      {
+        "name": "Xiaomi Pad",
+        "model": "Xiaomi Pad 5 Snapdragon 860",
+        "color": "Black",
+        "category": "Pad",
+        "price": "45500",
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/Tablet/Xiaomi/pad-5/xiaomi-pad-5-500x500.jpg",
+        "description": "Model: Xiaomi Pad 5\nDisplay: 11\" WQHD+ (1600 x 2560) 120Hz 500nits\nProcessor: Qualcomm Snapdragon 860\nRAM: 6GB, ROM: 256GB\nBattery: 8720 mAh",
+        "id": 7
+      },
+      {
+        "name": "Vivo ",
+        "model": "Vivo Y02t",
+        "color": "Orchid Blue",
+        "category": "Smartphone ",
+        "price": 16999,
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y02/y02-blue-500x500.webp",
+        "description": "Model: Y02t\nDisplay: 6.51\" HD+ Eye Protection Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Single 8MP on Rear, 5MP Front\nFeatures: 5000mAh Battery, 4GB Extended RAM",
+        "id": 8
+      },
+      {
+        "name": "Vivo ",
+        "model": "Vivo Y21T ",
+        "color": "Pearl White",
+        "category": "Smartphone ",
+        "price": "18999",
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y21t/y21t-midnight-blue-500x500.webp",
+        "description": "Model: Y21T\nDisplay: 6.51\" HD+ Halo Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Triple 50+2+2 MP on Rear, 8MP Front\nFeatures: 1GB Extended RAM, Side Fingerprint",
+        "id": 9
+      },
+      {
+        "name": "Xiaomi ",
+        "model": "Xiaomi Mi ",
+        "color": "Black",
+        "category": "Monitor",
+        "price": 10999,
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/mi-1c/mi-1c-1-500x500.jpeg",
+        "description": "Model: Mi 1C\nResolution: FHD (1920 x 1080)\nDisplay: IPS, 60Hz, 6ms\nPorts: HDMI, VGA\nFeatures: Low Blue Light",
+        "id": 10
+      },
+      {
+        "name": "HP ",
+        "model": "HP M24fwa ",
+        "color": "White",
+        "category": "Monitor",
+        "price": 20700,
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m24fwa/m24fwa-01-500x500.webp",
+        "description": "Model: M24fwa\nResolution: FHD (1920 x 1080)\nDisplay: IPS, 75Hz, 5ms GtG\nPorts: HDMI, VGA, Audio port\nFeatures: Low blue light, AMD FreeSync",
+        "id": 11
+      },
+      {
+        "name": "HP ",
+        "model": "HP Victus 16-d0445TX",
+        "color": "Black",
+        "category": "Laptop",
+        "price": 133500,
+        "imgUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/victus-16-d0678tx/victus-16-d0678tx-01-500x500.jpg",
+        "description": "MPN: 5B868PA\nModel: Victus 16-d0445TX\nProcessor: Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)\nRAM: 16GB DDR4, Storage: 512GB SSD\nGraphics: RTX 3050 4GB GDDR6\nFeatures: Backlit keyboard, 144Hz 7ms display",
+        "id": 12
+      }
+    ]
+  }
