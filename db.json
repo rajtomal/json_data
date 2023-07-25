@@ -14,7 +14,12 @@
       }
     ],
     "userData":[
-
+        {
+            "name": "tomal",
+            "email": "to@gmail.com",
+            "password": "123",
+            "id": 1
+          }
     ],
     "products": [
       {
