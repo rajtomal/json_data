@@ -19,6 +19,18 @@
             "email": "to@gmail.com",
             "password": "1234",
             "id": 1
+          },
+          {
+            "name": "Hi",
+            "email": "hi@gmail.com",
+            "password": "1234",
+            "id": 2
+          },
+          {
+            "name": "raj",
+            "email": "raj@gmail.com",
+            "password": "1234",
+            "id": 3
           }
     ],
     "products": [
@@ -122,5 +134,8 @@
         "description": "MPN: 5B868PA\nModel: Victus 16-d0445TX\nProcessor: Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)\nRAM: 16GB DDR4, Storage: 512GB SSD\nGraphics: RTX 3050 4GB GDDR6\nFeatures: Backlit keyboard, 144Hz 7ms display",
         "id": 12
       }
+    ],
+    "cartData":[
+
     ]
   }
